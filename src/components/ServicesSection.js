@@ -58,7 +58,6 @@ h2 {
 p {
     width: 70%;
     padding: 2rem 0rem 4rem 0rem;
-    
 }
 `;
 
@@ -66,7 +65,7 @@ const Cards = styled.div`
 display: flex;
 flex-wrap: wrap;
 
-@media (max-width: 1300px) {
+@media (max-width: 1250px) {
         justify-content: center;
     }
 

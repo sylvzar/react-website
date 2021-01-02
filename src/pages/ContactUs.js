@@ -44,7 +44,7 @@ padding: 5rem 10rem;
 color: #353535;
 min-height: 90vh;
 
-@media (max-width: 1300px) {
+@media (max-width: 1250px) {
 
     padding: 2rem;
     font-size: 1rem;
@@ -55,7 +55,7 @@ min-height: 90vh;
 const Title = styled.div`
 margin-bottom: 4rem;
 color: black;
-@media (max-width: 1300px) {
+@media (max-width: 1250px) {
     margin-top: 5rem;
 }
 `

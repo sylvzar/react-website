@@ -67,7 +67,7 @@ li {
     font-weight: lighter;
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1250px) {
      flex-direction: column;
      padding: 1rem 1rem;
      ul {
